@@ -9,7 +9,7 @@ const config = {
   title: 'FunParadigm',
   tagline: 'Fascinated by programming and art under all theirs forms',
   url: 'https://aiekick.github.io/',
-  baseUrl: '/blog/',
+  baseUrl: '/blog_funparadigm/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
