@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# NoodlesPlate
+# What is NoodlePlate
 
 Let's discover **NoodlesPlate**.
