@@ -49,37 +49,31 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tuto',
-          },
-          {
-            type: 'doc',
-            docId: 'intro',
+            docId: 'android/android',
             position: 'left',
             label: 'Android',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'softwares/softwares',
             position: 'left',
             label: 'Softwares',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'libraries/libraries',
             position: 'left',
             label: 'Libraries',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'various/various',
             position: 'left',
             label: 'Various',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'about/about',
             position: 'right',
             label: 'About',
           },
