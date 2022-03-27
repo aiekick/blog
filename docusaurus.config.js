@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'FunParadigm',
   tagline: 'Fascinated by programming and art under all theirs forms',
-  url: 'https://blog.funparadigm.com',
-  baseUrl: '/',
+  url: 'https://aiekick.github.io/',
+  baseUrl: '/blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
