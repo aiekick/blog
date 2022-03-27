@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfunparadigm=self.webpackChunkfunparadigm||[]).push([[1110],{6262:function(a){a.exports=JSON.parse('{"permalink":"/blog_funparadigm/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
