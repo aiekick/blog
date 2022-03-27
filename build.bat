@@ -1,1 +1,1 @@
-npm run build
+npx docusaurus build --out-dir build/docs
