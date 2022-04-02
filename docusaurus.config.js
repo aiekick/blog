@@ -83,11 +83,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Infos',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Contact',
+                to: '/docs/about/contact',
+              },
+              {
+                label: 'Curiculum Vitae',
+                to: '/docs/about/cv',
               },
             ],
           },
